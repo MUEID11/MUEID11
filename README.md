@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=MUEID11&theme=dark&hide_border=true&background=45%2C050036%2C010036)](https://git.io/streak-stats)
+### Commit Calender
+name: Current year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.calendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_calendar: yes
