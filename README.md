@@ -9,7 +9,7 @@ Skills:  REACT/ JS / HTML / CSS /
 - 🔭 I’m currently working on https://b9-assignment11.web.app/ 
 - 🌱 I’m currently learning Redux & Next.js 
 - 💬 Ask me about React, Js, mongoDB, Express, 
-- 📫 How to reach me: mehedirangpur3@gmail.com https://www.linkedin.com/in/mehedirangpur https://www.facebook.com/mueid11 
+- 📫 How to reach me: mehedirangpur3@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MUEID11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehdirangpur/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mueid11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mueid11/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@mehedirangpur)  
