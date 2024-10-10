@@ -2,7 +2,7 @@
 #### I am a Front-end Web Developer
 ![I am a Front-end Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQGrMUa8iKZ61A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719352644190?e=1733961600&v=beta&t=IbNNLX6JJWK8jDQQ2F4txgJ8byX2lbhRK1n_8SL67Ls)
 
-- 🔭 I’m currently working on [Project](https://b9-assignment11.web.app/)
+- 🔭 I’m currently working on [Project](https://inbrief-3d9ce.web.app/)
 - 🌱 I’m currently learning Redux & Next.js
 - 💬 Ask me about React, JavaScript, MongoDB, Express
 - 📫 How to reach me: mehedirangpur3@gmail.com
