@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Md Mehedi Hasan
 #### I am a Front-end Web Developer
-![I am a Front-end Web Developer](https://media.licdn.com/dms/image/D4E16AQGrMUa8iKZ61A/profile-displaybackgroundimage-shrink_350_1400/0/1719352644190?e=1725494400&v=beta&t=CxpUCtYACJqcrI5MpVfByx1CmzuV3jOzlIrB1qTRFtM)
+![I am a Front-end Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQGrMUa8iKZ61A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719352644190?e=1733961600&v=beta&t=IbNNLX6JJWK8jDQQ2F4txgJ8byX2lbhRK1n_8SL67Ls)
 
 - 🔭 I’m currently working on [Project](https://b9-assignment11.web.app/)
 - 🌱 I’m currently learning Redux & Next.js
