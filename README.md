@@ -36,9 +36,10 @@ I’m a passionate Front-end Developer with a focus on creating seamless user ex
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUEID11&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUEID11&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mueid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUEID11&show_icons=true&theme=transparent)
+[![Mueid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUEID11&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub streak stats](https://streak-stats.demolab.com/?user=MUEID11&theme=transparent)
+[![GitHub streak stats](https://streak-stats.demolab.com/?user=MUEID11&theme=transparent)](https://git.io/streak-stats)
+
 
