@@ -24,7 +24,7 @@ I’m a passionate Front-end Developer with a focus on creating seamless user ex
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,monogdb,expressjs,react,nodejs,html,css,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,mongodb,expressjs,react,nodejs,html,css,tailwind,bootstrap)](https://skillicons.dev)
 
 ---
 
