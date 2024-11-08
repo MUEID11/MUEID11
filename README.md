@@ -42,6 +42,5 @@ I’m a passionate Front-end Developer with a focus on creating seamless user ex
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MUEID11&theme=radical)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MUEID11&theme=radical" alt="GitHub Streak" /></a>
 
 
