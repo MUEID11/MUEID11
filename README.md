@@ -40,6 +40,6 @@ I’m a passionate Front-end Developer with a focus on creating seamless user ex
 
 [![Mueid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUEID11&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub streak stats](https://streak-stats.demolab.com/?user=MUEID11&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MUEID11&theme=radical)
 
 
