@@ -24,13 +24,13 @@ I’m a passionate Front-end Developer with a focus on creating seamless user ex
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,mongodb,expressjs,react,nodejs,html,css,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,mongodb,expressjs,react,nodejs,html,css,tailwind,bootstrap)](https://mueid-portfolio.vercel.app)
 
 ---
 
 ### Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,redux)](https://mueid-portfolio.vercel.app)
 
 ---
 
