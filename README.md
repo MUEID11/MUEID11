@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Md Mehedi Hasan
 ### Passionate Front-end Web Developer and Learner
 
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQGrMUa8iKZ61A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719352644190?e=1733961600&v=beta&t=IbNNLX6JJWK8jDQQ2F4txgJ8byX2lbhRK1n_8SL67Ls)
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQGamOR3cvs4vw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731941012118?e=1737590400&v=beta&t=-XBC5K2n7xrtPsNZn5JJwGzQdxsnUd_lKSc4JxuNDIw)
 
 I’m a passionate Front-end Developer with a focus on creating seamless user experiences. Currently diving deeper into Redux and Next.js.
 
