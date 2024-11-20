@@ -6,7 +6,7 @@
 I’m a passionate Front-end Developer with a focus on creating seamless user experiences. Currently diving deeper into Redux and Next.js.
 
 - 🔭 **Currently working on:** [InBrief Project](https://inbrief-3d9ce.web.app/)
-- 🌱 **Learning:** TypeScript, Redux & Next.js
+- 🌱 **Learning:** graphQL, Redux & Next.js
 - 💬 **Ask me about:** React, JavaScript, MongoDB, Express
 - 📫 **Reach me at:** mehedirangpur3@gmail.com
 
