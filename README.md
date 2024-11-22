@@ -3,7 +3,7 @@
 
 ![Banner](https://media.licdn.com/dms/image/v2/D4E16AQGamOR3cvs4vw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731941012118?e=1737590400&v=beta&t=-XBC5K2n7xrtPsNZn5JJwGzQdxsnUd_lKSc4JxuNDIw)
 
-I’m a passionate Front-end Developer with a focus on creating seamless user experiences. Currently diving deeper into Redux and Next.js.
+I’m a passionate Front-end Developer with a focus on creating seamless user experiences. Currently diving deeper into GraphQl, Redux and Next.
 
 - 🔭 **Currently working on:** [InBrief Project](https://inbrief-3d9ce.web.app/)
 - 🌱 **Learning:** graphQL, Redux & Next.js
